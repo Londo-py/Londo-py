@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Londo-py
+- 👀 I’m interested in coding with python 
+- 🌱 I’m currently learning how to code 3d game with python
